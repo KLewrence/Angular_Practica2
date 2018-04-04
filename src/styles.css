@@ -8,6 +8,11 @@ body{
   padding-bottom: 50px;
 }
 
+.casaLogo{
+  width: 25%;
+  height: 25%;
+}
+
 /*ANIMACIONES*/
 
 .animated {
